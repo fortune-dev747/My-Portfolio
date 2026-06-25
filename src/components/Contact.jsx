@@ -9,7 +9,7 @@ export default function Contact() {
         <em>Now!</em>
       </h2>
       <p className={styles.sub}>
-        I am currently available for remote freelance work and open to new opportunities. 
+        I'm currently available for remote freelance work and open to new opportunities. 
         If you have a project in mind or just want to say hello, my inbox is always open.
       </p>
       <a href="mailto:fortuneemmanuel18@gmail.com" className={styles.emailBtn}>
