@@ -34,7 +34,7 @@ export default function Hero() {
       </div>
 
       <div className={styles.imageWrapper}>
-        <img src="/src/mypicture.jpg" alt="my picture" className={styles.image} />
+        <img src="./mypicture.jpg" alt="my picture" className={styles.image} />
       </div>
 
       <div className={styles.scroll}>
