@@ -23,6 +23,10 @@ export default function Contact() {
         <a href="https://github.com/fortune-dev747" target="_blank" rel="noopener noreferrer">
           GitHub
         </a>
+        <span className={styles.dot}>·</span>
+        <a href="https://wa.me/2349017186911" target="_blank" rel="noopener noreferrer">
+          Whatsapp
+        </a>
       </div>
       <div className={styles.footer}>
         <span className={styles.bottom}>© 2026 Fortune U. Emmanuel. All rights reserved</span>
