@@ -3,7 +3,7 @@ import styles from './Skills.module.css'
 const skills = [
   { name: 'React', level: 90 },
   { name: 'JavaScript', level: 88 },
-  { name: 'HTML & CSS', level: 93 },
+  { name: 'HTML5 & CSS3', level: 93 },
   { name: 'CSS Modules', level: 82 },
   { name: 'Vite', level: 90 },
   { name: 'Git & GitHub', level: 95 },
