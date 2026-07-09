@@ -55,10 +55,19 @@
   .nav {
     padding: 1rem 1.5rem;
   }
-  .links {
+  .links a {
     gap: 1.2rem;
   }
   .links li:not(:last-child) {
     display: none;
+  }
+}
+
+@media (min-width: 2560px) {
+  .logo {
+    font-size: 2rem;
+  }
+  .links a {
+    font-size: 1.65rem;
   }
 }
