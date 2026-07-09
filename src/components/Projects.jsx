@@ -20,6 +20,15 @@ const projects = [
     live: 'https://movie-streaming-design.onrender.com',
     github: '#',
   },
+  {
+    num: '03',
+    title: 'Nexus QR',
+    subtitle: 'QR Code Generator',
+    desc: 'A responsive web application that converts text or URLs into downloadeable QR codes instantly built with HTML5, CSS3, and JavaScript. I implemented a dynamic QR code generation feature and ensured input validation and error handling with download functionality. Designed a clean UI with modern CSS styling and also made a responsive layout across all devices.',
+    tags: ['HTML5', 'CSS3', 'JavaScript', 'Responsive Web Design'],
+    live: 'https://qr-code-generator-app-qsbi.onrender.com',
+    github: '#',
+  },
 ]
 
 export default function Projects() {
