@@ -32,7 +32,7 @@ export default function About() {
           </p>
           <div className={styles.stats}>
             <div className={styles.stat}>
-              <span className={styles.statNum}>3</span>
+              <span className={styles.statNum}>5</span>
               <span className={styles.statLabel}>Projects Shipped</span>
             </div>
             <div className={styles.stat}>

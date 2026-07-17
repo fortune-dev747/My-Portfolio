@@ -24,7 +24,7 @@ export default function Hero() {
         </h1>
         <p className={styles.title}>Frontend Developer</p>
         <p className={styles.sub}>
-          I build clean, responsive web experiences with React and JavaScript —
+          I build clean, responsive web experiences with React and JavaScript whilst
           turning ideas into interfaces that feel as good as they look.
         </p>
         <div className={styles.actions}>

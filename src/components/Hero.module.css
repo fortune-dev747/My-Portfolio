@@ -192,10 +192,10 @@
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
   .hero {
     flex-direction: column;
-    padding: 7rem 1.5rem 4rem;
+    padding: 5rem 1rem 4rem;
     gap: 2rem;
     /* Adjusted for mobile */
   }
