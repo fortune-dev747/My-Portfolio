@@ -23,7 +23,7 @@ export default function About() {
             using React and modern JavaScript.
           </p>
           <p>
-            I care deeply about the details — spacing, typography, motion. I believe good design and clean code
+            I care deeply about the details of spacing, typography, motion. I believe good design and clean code
             are not opposites; they're the same discipline.
           </p>
           <p>
