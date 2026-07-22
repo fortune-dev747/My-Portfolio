@@ -31,10 +31,10 @@ export default function About() {
             with teams who value craft.
           </p>
           <a href="/public/Fortune_Emmanuel_Uduak_Resume.pdf.pdf"
-           target="_blank" rel="noopener noreferrer"
+            target="_blank" rel="noopener noreferrer"
             className={styles.resumeBtn}
           >
-            Download Resume
+            Download CV
           </a>
           <div className={styles.stats}>
             <div className={styles.stat}>
