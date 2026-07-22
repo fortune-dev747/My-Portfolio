@@ -4,9 +4,9 @@ import { useScrollReveal } from '../hooks/useScrollReveal'
 const projects = [
   {
     num: '01',
-    title: 'AGC NEWS',
+    title: 'NEXUS NEWS',
     subtitle: 'News Website',
-    desc: 'News platform built from custom Figma designs. Completed a full responsiveness pass across multiple breakpoints for a consistent layout on all devices.',
+    desc: 'News platform built from custom Figma design. Completed a full responsiveness pass across multiple breakpoints for a consistent layout on all devices.',
     tags: ['React', 'Vite', 'CSS Modules', 'Figma-to-Code', 'Responsive Web Design'],
     live: 'https://news-web-project-kohl.vercel.app/',
     github: '#',

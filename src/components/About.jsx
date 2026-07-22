@@ -18,18 +18,24 @@ export default function About() {
         </div>
         <div ref={rightRef} className={`${styles.right} reveal reveal-delay-2`}>
           <p>
-            I'm a frontend developer based in Lagos, Nigeria. 
-            I specialize in building responsive, visually polished web applications 
+            I'm a frontend developer based in Lagos, Nigeria.
+            I specialize in building responsive, visually polished web applications
             using React and modern JavaScript.
           </p>
           <p>
-            I care deeply about the details — spacing, typography, motion. I believe good design and clean code 
+            I care deeply about the details — spacing, typography, motion. I believe good design and clean code
             are not opposites; they're the same discipline.
           </p>
           <p>
-            I'm currently open to remote freelance opportunities and collaborations 
+            I'm currently open to remote freelance opportunities and collaborations
             with teams who value craft.
           </p>
+          <a href="/public/Fortune_Emmanuel_Uduak_Resume.pdf.pdf"
+           target="_blank" rel="noopener noreferrer"
+            className={styles.resumeBtn}
+          >
+            Download Resume
+          </a>
           <div className={styles.stats}>
             <div className={styles.stat}>
               <span className={styles.statNum}>5</span>
@@ -46,6 +52,6 @@ export default function About() {
           </div>
         </div>
       </div>
-    </section>
+    </section >
   )
 }
